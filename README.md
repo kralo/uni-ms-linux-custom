@@ -16,6 +16,7 @@ automatic cli scripts for:
 
 TODO
 - add wireless networks: uni-ms and eduroam. Possibly by connecting by hand and saving the connection settings from /etc/NetworkManager/system-connections
+- add Remmina/alternative shortcuts for easy zivtserv connection
 - make one big package
 - ...more ideas...
 
